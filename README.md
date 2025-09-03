@@ -41,7 +41,7 @@ java --enable-preview -jar target/task-tickets-1.0-SNAPSHOT-jar-with-dependencie
 
 ## Тестирование
 
-В проекте есть unit- и integration-тесты (JUnit 5).  
+В проекте есть unit-тесты (JUnit 5).  
 Запуск всех тестов:
 
 ```bash
